@@ -1,0 +1,12 @@
+PaperPilot – sample questions
+
+1. What is the main objective of this paper?
+2. Explain the proposed methodology step by step.
+3. Which algorithms or machine learning models are used?
+4. What dataset is used? Mention its size and source if available.
+5. What evaluation metrics are reported?
+6. What accuracy, precision, recall or F1-score is achieved?
+7. What are the major findings and limitations?
+8. What future work do the authors suggest?
+9. Compare the methodologies used in Paper A and Paper B.
+10. Which paper reports better performance, and are the metrics comparable?
